@@ -11,5 +11,5 @@ addEventListener(onload,function(){
 })
 
 window.addEventListener('load', function () {
-    console.log("DOM has loaded")
+    console.log("DOM has loaded"    )
   })
